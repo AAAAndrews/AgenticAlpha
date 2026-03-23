@@ -2,6 +2,8 @@
 
 An early open-source implementation of an agentic investment-research pipeline.
 
+Runtime target: this agent workflow and skill collection are developed for Claude Code, with Claude Code/OpenClaw used as the primary agent unit and adaptation baseline.
+
 This project turns a rough market idea (gossip, intuition, or a hypothesis) into:
 
 1. A professionally framed research question.
